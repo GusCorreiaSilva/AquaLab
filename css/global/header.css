@@ -1,0 +1,13 @@
+.titulo {
+    font-size: 1.5rem;
+    text-align: left;
+    padding: 40px 50px;
+    background-color: var(--cor-A1);
+    color: var(--cor-1);
+}
+.rodape {
+    margin-top: 50px;
+    padding: 40px 50px;
+    background-color: var(--cor-A1);
+    color: var(--cor-1);
+}

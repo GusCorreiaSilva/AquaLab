@@ -1,0 +1,22 @@
+:root {
+    --cor-1: aliceblue;
+    --cor-2: rgb(207, 218, 227);
+    --cor-A0:rgb(31, 11, 92);
+    --cor-A1: rgb(21, 6, 68);
+    --cor-A2: rgb(15, 3, 50);
+    --cor-A3: rgb(5, 1, 20);
+}
+
+
+.cor-1 {
+    color: var(--cor-1);
+}
+.cor-2 {
+    color: var(--cor-2);
+}
+.cor-A1 {
+    color: var(--cor-A1);
+}
+.cor-A2 {
+    color: var(--cor-A2);
+}

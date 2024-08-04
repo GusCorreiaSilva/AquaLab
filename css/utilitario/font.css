@@ -1,0 +1,18 @@
+.font-p {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        font-size: 1.3rem;
+}
+.font-p-s {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        font-size: 1rem;
+        line-height: 120%;
+}
+.font-t {
+        font-family: 'Montserrat', sans-serif;
+}
+.font-t-2 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 0.9rem;
+}
