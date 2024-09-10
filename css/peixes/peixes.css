@@ -1,4 +1,5 @@
 .peixes {
+    width: 100%;
     background-color: var(--cor-A3);
 }
 .peixes-grid {
