@@ -27,11 +27,10 @@
     width: 100%;
     display: flex;
     justify-content: space-around;
-}
-.status {
     border: 2px solid rgba(255, 255, 255, 0.3);
     border-top: none;
     border-bottom: none;
+    font-weight: 300;
 }
 .contexto {
     grid-column: 3;

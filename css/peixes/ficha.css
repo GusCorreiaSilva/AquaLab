@@ -13,8 +13,11 @@
     text-align: left;
 }
 .descricao {
+    background-color: var(--cor-A2);
+    border-radius: 10px;
     display: block;
     font-size: 0.8rem;
+    font-weight: 300;
     max-width: 40ch;
     padding: 20px;
     position: relative;

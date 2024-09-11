@@ -1,10 +1,10 @@
 @import "./global/global.css";
 @import "./global/header.css";
 
-
 /* UTILITARIO */
 @import "./utilitario/cores.css";
 @import "./utilitario/font.css";
+
 /* SOBRE */
 @import "./sobre/sobre.css";
 
