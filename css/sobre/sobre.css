@@ -27,10 +27,16 @@
     width: 100%;
     display: flex;
     justify-content: space-around;
-    border: 2px solid rgba(255, 255, 255, 0.3);
+    border: 1px solid rgb(71, 71, 71);
     border-top: none;
     border-bottom: none;
     font-weight: 300;
+}
+.info :nth-child(2) {
+    border-left: none;
+}
+.info :last-child {
+    border-right: none;
 }
 .contexto {
     grid-column: 3;
